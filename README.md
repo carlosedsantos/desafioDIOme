@@ -1,13 +1,13 @@
 # desafioDIOme
 # Programação na disciplina de Matemática nas escolas brasileiras
 
-Este repositório contém uma página HTML simples, em formato de artigo jornalístico/blog, sobre a integração do ensino de **programação** nas aulas de Matemática nas escolas do Brasil, criada como parte de um desafio da plataforma Dio.me. [web:27][web:32]
+Este repositório contém uma página HTML simples, em formato de artigo jornalístico/blog, sobre a integração do ensino de **programação** nas aulas de Matemática nas escolas do Brasil, criada como parte de um desafio da plataforma Dio.me.
 
 ---
 
 ## Sobre o desafio
 
-Este projeto foi desenvolvido no contexto da **Trilha HTML - Dio.me**, no **Módulo 01 - Primeiros passos com HTML**, cujo objetivo é praticar a estruturação de páginas utilizando apenas HTML, sem CSS ou JavaScript, reforçando o uso de tags básicas. [web:32]
+Este projeto foi desenvolvido no contexto da **Trilha HTML - Dio.me**, no **Módulo 01 - Primeiros passos com HTML**, cujo objetivo é praticar a estruturação de páginas utilizando apenas HTML, sem CSS ou JavaScript, reforçando o uso de tags básicas.
 
 Os principais requisitos do desafio foram:
 
@@ -19,7 +19,7 @@ Os principais requisitos do desafio foram:
   - Links: `a`
   - Estrutura e destaque: `hr`, `blockquote`
   - Notação: `sub`, `sup`
-  - Outras tags: `font`, `del`, `abbr` [web:32]
+  - Outras tags: `font`, `del`, `abbr`
 
 ---
 
@@ -27,17 +27,17 @@ Os principais requisitos do desafio foram:
 
 O texto da página discute, em linguagem acessível:
 
-- A entrada gradual da **programação** nas aulas de Matemática da educação básica brasileira. [web:27]
-- A relação com o **pensamento computacional** e com as competências previstas na **BNCC** para a área de Matemática. [web:32]
+- A entrada gradual da **programação** nas aulas de Matemática da educação básica brasileira.
+- A relação com o **pensamento computacional** e com as competências previstas na **BNCC** para a área de Matemática.
 - Benefícios pedagógicos, como:
   - desenvolvimento do raciocínio lógico;
   - aproximação entre cálculos e situações do cotidiano;
-  - projetos simples com funções, médias e sequências numéricas. [web:27]
+  - projetos simples com funções, médias e sequências numéricas.
 - Desafios para implementação nas escolas, como:
   - formação docente;
   - infraestrutura;
   - tempo pedagógico;
-  - materiais didáticos adequados. [web:27]
+  - materiais didáticos adequados.
 
 O tom é de artigo jornalístico/blog, podendo ser lido como um texto informativo ou de divulgação educacional.
 
@@ -61,18 +61,8 @@ O tom é de artigo jornalístico/blog, podendo ser lido como um texto informativ
 
 ---
 
-## Possíveis extensões (para estudos pessoais)
-
-Embora o desafio seja focado apenas em HTML, algumas ideias de evolução para estudos futuros são:
-
-- Adicionar **CSS** para melhorar a tipografia e o layout.
-- Criar novas páginas com outros temas (por exemplo, pensamento computacional em outras disciplinas).
-- Inserir exemplos de código reais de linguagens como Python ou JavaScript para ilustrar atividades de sala. [web:31]
-
----
-
 ## Créditos
 
 Projeto produzido por estudante/desenvolvedor(a) participante da **Dio.me**, como parte da Trilha HTML.  
-Inspirado em discussões sobre **Educação Matemática**, **pensamento computacional** e **programação** na educação básica brasileira. [web:27][web:34]
+Inspirado em discussões sobre **Educação Matemática**, **pensamento computacional** e **programação** na educação básica brasileira.
 
